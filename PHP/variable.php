@@ -1,6 +1,6 @@
 <?php
     $char = 'A';
-    $string = "Neddy AP";
+    $string = "Dzikri";
     $a = 36;
     $penghasilan1 = 1000000;
     $nilai_uts = 87.25;

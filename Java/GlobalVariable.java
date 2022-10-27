@@ -3,7 +3,7 @@ public class GlobalVariable {
 
     public static void main(String args[]) {
         age = 17;
-        System.out.println("Umur Neddy Avgha Prasetio : " + age);
+        System.out.println("Umur Dzikri : " + age);
     }
 
 }

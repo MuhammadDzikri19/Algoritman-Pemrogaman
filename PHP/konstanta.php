@@ -1,5 +1,5 @@
 <?php
-    define("NAMA", "Neddy AP");
+    define("NAMA", "Dzikri");
     define("NILAI", 90);
     echo "--- Belajar Konstanta --- <br><br>";
     echo "Nama : " . NAMA;

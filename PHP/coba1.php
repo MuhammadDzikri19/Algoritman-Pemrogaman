@@ -1,7 +1,7 @@
 <?php
 
     $nim = "I.2211134";
-    $nama = "Neddy";
+    $nama = "Dzikri";
     $umur = 35;
     $nilai = 95.22;
     $status = TRUE;
